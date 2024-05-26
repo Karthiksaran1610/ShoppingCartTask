@@ -1,0 +1,1 @@
+shopping cart Task was taken four componenets and using bootstrap for index.css them finallly the task was completed.
